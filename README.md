@@ -9,23 +9,31 @@ Description:
 2. White Paper: A New Business Plan: Blockchain in Second-hand market
 
 Outline
--Several examples of Blockchain applied on various area
--New Blockchain idea in Second-hand market
-  -introduction of a company where it already has been doing a business in second-hand car market: CARVERTICLE|[(https://www.carvertical.com/)]
--Existed examples of Blockchain Technology in varioud industry
-  -Financing
-    -JP Morgan Chase, 
+- Several examples of Blockchain applied on various area
+- New Blockchain idea in Second-hand market
+  - introduction of a company where it already has been doing a business in second-hand car market: CARVERTICAL|[(https://www.carvertical.com/)]
+  
+  
+1. Existed examples of Blockchain Technology in varioud industry
+  - Financing
+    - JP Morgan Chase, 
     
-  -Accounting
-    -Deloitte, an accounting system develped by itself, to make some change in accounting 
+  - Accounting
+    - Deloitte, an accounting system develped by itself, to make some change in accounting 
     
-  -Retailing
-    -Walmart, a delivery system which is using a drone to chase deliverys while they are delivered
+  - Retailing
+    - Walmart, a delivery system which is using a drone to chase deliverys while they are delivered
     
-  -Messenger
-    -Kakao pay which is payment system of the most popular messenger in Korea, Kakao Talk
-    
-    
+  - Messenger
+    - Kakao pay which is payment system of the most popular messenger in Korea, Kakao Talk
+ 
+ 
+ 2. New Blockchain idea in Second-hand market
+ 
+   - Car Vertical|[(https://www.carvertical.com/)]
+     - track a record on a used car before demanders buy
+     - whey demanders search about VIN number, then they can reach on the information about car details, such as a maufacturer, model of the car, type of the body, production year, engine power, type of fuel, type of transimission, the country of manufacture
+     -Car Vertical, itself make a rating on condition of the car, 
   
 
 
