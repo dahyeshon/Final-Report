@@ -7,14 +7,19 @@ Topic: A New Business Plan; Blockchain in Second-hand market service platform
 
  ## 1.1 Financing
     - JP Morgan Chase, 
+   
+   
     - Deutsche Bank, 
-    - fidor bank,
+    
+    
+     - fidor bank,
     
  ## 1.2 Accounting
     - Deloitte, an accounting system develped by itself, to make some change in accounting 
     
  ## 1.3 Retailing
     - Walmart, a delivery system which is using a drone to chase deliverys while they are delivered
+   
     - Maersk, a tracking system when a delivery is on the way of requested country
     
  ## 1.4 Messenger
@@ -22,6 +27,7 @@ Topic: A New Business Plan; Blockchain in Second-hand market service platform
     
  ## 1.5 Medical
     - google, a tracking system on patients
+   
     - IBM Watson, patients information sharing system 
  
  
@@ -30,8 +36,14 @@ Topic: A New Business Plan; Blockchain in Second-hand market service platform
 # 2. White Paper: A New Business Plan: Blockchain in Second-hand market
 
 ## 2.1 Reason why I am choosing this business as a specific business idea
-I had cheated on a unknown person online second-hand marekt when I wanted to buy a macbook retina 15 inch. The amount of
-  - introduction of a company where it already has been doing a business in second-hand car market: CARVERTICAL|[(https://www.carvertical.com/)]
+I had cheated on a unknown person online second-hand marekt when I wanted to buy a macbook retina 15 inch. 
+The amount of money that I got cheated was approxiamtely 2300 Chinese yuan. (400,000 won, in Korean exchange) 
+In my case, the transaction was proceed on the mobile application for only second-hand market which is called bunjang [(https://m.bunjang.co.kr/)]. 
+It has a function for communicating in  potential buyer and seller when buyer wants to ask something related to the good that he is interested in and also can negotiate in the communication. 
+Both buyer and seller need to log in their own personal IDs and PWs, especially by entering identification code in text messages to identify the ID by mobile phone number. 
+Additionally, it is suggested to use a double-check function connected with link to The Cheat [(https://thecheat.co.kr/rb/?mod=_search)] to check whether you counterpart is recored on the website by someone already had been transaction experienced before, so that you, the potentially be cheated on the same person, can be preveted by fraud. 
+
+ 
   
   
 ## 2.2 New Blockchain idea in Second-hand market
