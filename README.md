@@ -42,7 +42,10 @@ In my case, the transaction was proceed on the mobile application for only secon
 It has a function for communicating in  potential buyer and seller when buyer wants to ask something related to the good that he is interested in and also can negotiate in the communication. 
 Both buyer and seller need to log in their own personal IDs and PWs, especially by entering identification code in text messages to identify the ID by mobile phone number. 
 Additionally, it is suggested to use a double-check function connected with link to The Cheat[(https://thecheat.co.kr/rb/?mod=_search)] to check whether you counterpart is recored on the website by someone already had been transaction experienced before, so that you, the potentially be cheated on the same person, can be preveted by fraud. 
-
+However, in my case, there wasn't any records about the seller. 
+After a while I reported to the police, this kind of fraud, which is a transaction throught online, is rarely hard to catch suspects. It is becasue the identified bank accounts and phone numbers are mostly fake deposits. 
+Therefore, I think the main reason of being cheated online transaction is one of the features of online market transaction, which is easily cheating others with faked identification. 
+| 
  
   
   
