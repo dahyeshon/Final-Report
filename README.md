@@ -50,7 +50,7 @@ Therefore, I think **the main reason** of being cheated online transaction is on
 As I mentioned earlier, the key solution to suspend of being fraud is to use a 
 
   
-## 2.3 New Blockchain idea in Second-hand market
+## 2.3 Existed blockchain companies in Second-hand market
  
    - [Car Vertical](https://www.carvertical.com/)
      - track a record on a used car before demanders buy
@@ -58,7 +58,17 @@ As I mentioned earlier, the key solution to suspend of being fraud is to use a
      -Car Vertical, itself make a rating on condition of the car, 
   
 
+
+## 2.4 
+[peer](https://peer.com/)
 ** embeding a photo **
+
+
+
+## 2.5 conclusion
+
+
+## reference
 
 ![Image of **tilte of photo**](https://octodex.github.com/images/5._IELTS_6.jpg)
 firstly you need to upload on github
