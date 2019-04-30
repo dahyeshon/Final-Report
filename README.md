@@ -1,8 +1,7 @@
 # PHBS_BlockChain_2018
 
 Final Report of Blockchain and bitcoin taught by Professor, Jaehyuck Choi.
-
-# Topic: A New Business Plan: Blockchain in Second-hand market service platform
+Topic: A New Business Plan; Blockchain in Second-hand market service platform
 
 # 1. Review Biz: Several business existed examples of Blockchain technology in various industry 
 
