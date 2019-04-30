@@ -35,7 +35,7 @@ Topic: A New Business Plan; Blockchain in Second-hand market service platform
 
 # 2. White Paper: A New Business Plan: Blockchain in Second-hand market
 
-## 2.1 Reason why I am choosing this business as a specific business idea
+## 2.1 Reason why I am choosing this business - my real story being cheated online second-hand market
 I had cheated on a unknown person online second-hand marekt when I wanted to buy a macbook retina 15 inch. 
 The amount of money that I got cheated was approxiamtely 2300 Chinese yuan. (400,000 won, in Korean exchange) 
 In my case, the transaction was proceed on the mobile application for only second-hand market which is called [bunjang](https://m.bunjang.co.kr/). 
