@@ -38,17 +38,17 @@ Topic: A New Business Plan; Blockchain in Second-hand market service platform
 ## 2.1 Reason why I am choosing this business as a specific business idea
 I had cheated on a unknown person online second-hand marekt when I wanted to buy a macbook retina 15 inch. 
 The amount of money that I got cheated was approxiamtely 2300 Chinese yuan. (400,000 won, in Korean exchange) 
-In my case, the transaction was proceed on the mobile application for only second-hand market which is called bunjang [(https://m.bunjang.co.kr/)]. 
+In my case, the transaction was proceed on the mobile application for only second-hand market which is called bunjang[(https://m.bunjang.co.kr/)]. 
 It has a function for communicating in  potential buyer and seller when buyer wants to ask something related to the good that he is interested in and also can negotiate in the communication. 
 Both buyer and seller need to log in their own personal IDs and PWs, especially by entering identification code in text messages to identify the ID by mobile phone number. 
-Additionally, it is suggested to use a double-check function connected with link to The Cheat [(https://thecheat.co.kr/rb/?mod=_search)] to check whether you counterpart is recored on the website by someone already had been transaction experienced before, so that you, the potentially be cheated on the same person, can be preveted by fraud. 
+Additionally, it is suggested to use a double-check function connected with link to The Cheat[(https://thecheat.co.kr/rb/?mod=_search)] to check whether you counterpart is recored on the website by someone already had been transaction experienced before, so that you, the potentially be cheated on the same person, can be preveted by fraud. 
 
  
   
   
 ## 2.2 New Blockchain idea in Second-hand market
  
-   - Car Vertical|[(https://www.carvertical.com/)]
+   - Car Vertical[(https://www.carvertical.com/)]
      - track a record on a used car before demanders buy
      - whey demanders search about VIN number, then they can reach on the information about car details, such as a maufacturer, model of the car, type of the body, production year, engine power, type of fuel, type of transimission, the country of manufacture
      -Car Vertical, itself make a rating on condition of the car, 
