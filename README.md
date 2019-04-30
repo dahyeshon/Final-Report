@@ -2,20 +2,11 @@
 
 Final Report of Blockchain and bitcoin taught by Professor, Jaehyuck Choi.
 
-Topic: A New Business Plan: Blockchain in Second-hand market service platform
+# Topic: A New Business Plan: Blockchain in Second-hand market service platform
 
-Description:
-1. Review Biz: Several business existed examples of Blockchain technology in various industry 
-2. White Paper: A New Business Plan: Blockchain in Second-hand market
+# 1. Review Biz: Several business existed examples of Blockchain technology in various industry 
 
-Outline
-- Several examples of Blockchain applied on various area
-- New Blockchain idea in Second-hand market
-  - introduction of a company where it already has been doing a business in second-hand car market: CARVERTICAL|[(https://www.carvertical.com/)]
-  
-  
-1. Existed examples of Blockchain Technology in varioud industry
-  - Financing
+ - Financing
     - JP Morgan Chase, 
     
   - Accounting
@@ -36,8 +27,13 @@ Outline
      -Car Vertical, itself make a rating on condition of the car, 
   
 
+# 2. White Paper: A New Business Plan: Blockchain in Second-hand market
+  - introduction of a company where it already has been doing a business in second-hand car market: CARVERTICAL|[(https://www.carvertical.com/)]
+  
+  
 
-embeding a photo
+
+** embeding a photo **
 
 ![Image of **tilte of photo**](https://octodex.github.com/images/5._IELTS_6.jpg)
 firstly you need to upload on github
