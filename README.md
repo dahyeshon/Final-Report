@@ -46,10 +46,11 @@ However, in my case, there wasn't any records about the seller.
 After a while I reported to the police, this kind of fraud, which is a transaction throught online, is rarely hard to catch suspects. It is becasue the identified bank accounts and phone numbers are mostly fake deposits. 
 Therefore, I think **the main reason** of being cheated online transaction is one of the features of online market transaction, which is easily cheating others with **a faked identification**. 
 
- 
+## 2.2 Applying Blockchain technology on identification system
+As I mentioned earlier, the key solution to suspend of being fraud is to use a 
+
   
-  
-## 2.2 New Blockchain idea in Second-hand market
+## 2.3 New Blockchain idea in Second-hand market
  
    - [Car Vertical](https://www.carvertical.com/)
      - track a record on a used car before demanders buy
