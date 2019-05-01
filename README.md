@@ -55,12 +55,7 @@ Topic: A New Business Plan; Blockchain in Second-hand market service platform
 
 ## 3.1 Increasing e-commerce fraud in Second-hand market transaction
 
-더치트 통계자료 인용
-온라인 중고 직거래 사기 현황
-최근 5개년 통계자료, 수치 -> 도식화, 설명
-
-
-
+![Image of **Internet fraud statistics**](https://octodex.github.com/images/Blockchain_chart.png)
   
 ## 3.2 Blockchain companies in Second-hand market
  
