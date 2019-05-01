@@ -6,30 +6,35 @@ Topic: A New Business Plan; Blockchain in Second-hand market service platform
 # 1. Review Biz: Several business existed examples of Blockchain technology in various industry 
 
  ## 1.1 Financing
-    - JP Morgan Chase, |
+   - JP Morgan Chase, 
+     - 
    
-   
-    - Deutsche Bank, 
+   - Deutsche Bank, 
+     - 
     
-    
-     - fidor bank,
-    
+   - fidor bank,
+     - 
+     
+   - Kakao pay which is payment system of the most popular messenger in Korea, Kakao Talk
+     - 
  ## 1.2 Accounting
-    - Deloitte, an accounting system develped by itself, to make some change in accounting 
+   - Deloitte, an accounting system develped by itself, to make some change in accounting 
+     - 
+     
+ ## 1.3 Retails & logistics
+   - Walmart, a delivery system which is using a drone to chase deliverys while they are delivered
+    - 
+  
+   - Maersk, a tracking system when a delivery is on the way of requested country
+    - 
     
- ## 1.3 Retailing
-    - Walmart, a delivery system which is using a drone to chase deliverys while they are delivered
-   
-    - Maersk, a tracking system when a delivery is on the way of requested country
     
- ## 1.4 Messenger
-    - Kakao pay which is payment system of the most popular messenger in Korea, Kakao Talk
-    
- ## 1.5 Medical
-    - google, a tracking system on patients
-   
-    - IBM Watson, patients information sharing system 
- 
+ ## 1.4 Medical
+   - google, a tracking system on patients
+    - 
+  
+  - IBM Watson, patients information sharing system 
+    - 
  
  
 
