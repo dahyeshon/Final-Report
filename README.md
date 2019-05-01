@@ -4,8 +4,6 @@ Final Report of Blockchain and bitcoin taught by Professor, Jaehyuck Choi.
 
 Topic: A New Business Plan; Blockchain in Second-hand market service platform
 
-# overview
-
 ## 1. introduction - Reason why I am choosing this business
 
 - I had an experienced cheated on a unknown person in a mobile application, [bunjang](https://m.bunjang.co.kr/)
@@ -17,10 +15,6 @@ Topic: A New Business Plan; Blockchain in Second-hand market service platform
 - After a while I reported to the police, this kind of fraud which is a transaction throught online is rarely hard to catch suspects. 
 - It is because the identified bank accounts and phone numbers are mostly fake. 
 - Therefore, I think **the main reason** of being cheated online transaction is one of the features of online market transaction, which is easily cheating others with **a faked identification**.
-
-
--보기 편하게 간략화
--인덱스 붙여서
 
 # 2. Cases applying Blockchain technology on various industry 
 
@@ -54,12 +48,7 @@ Topic: A New Business Plan; Blockchain in Second-hand market service platform
 
 ## 3.1 Increasing e-commerce fraud in second-hand market transaction
 
-더치트 통계자료 인용
-온라인 중고 직거래 사기 현황
-최근 5개년 통계자료, 수치 -> 도식화, 설명
-
 ![Image of **The occured and arrested number of internet fraud**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/pic1.png)
-
   
 ## 3.2 Blockchain companies in second-hand market
  
@@ -102,7 +91,20 @@ As I mentioned earlier, the key solution to suspend of being frais to use a
 
 
 비트코인 거래시, 블록형태로 기록되는 것처럼 누구에게 입금. 송금. 이 체인의 형태로 연결되고
-만약 사기가 발생하면 < 불이행>
+만약 사기가 발생하면 <불이행>
+
+사기 발생 경우 3가지
+1. 판매자가 거래 대금을 받고 물건을 보내지 않은 경우
+2. 물건을 보냈으나, 거래한 물건을 보내지 않은 경우
+3. 이전 기록을 바탕으로는 사기를 친 전적이 없으나, 현재 거래에서 사기를 치려고 하는 판매자의 경우
+
+결론적으로 항상 판매자가 갑의 위치
+
+이를 해결하기 위해서
+j-link의 경우처럼, 중고나라와 더치트의 협업도 제3의 기관을 설립하여 지급 확약?을 해줘야 함.
+
++ 물건의 배송에 대한 블록체인은 가능하지 않음...
++ 거래 대금에 대한 블록체인만 가능..(블록체인을 실행화 시키면)
 
 
 
@@ -113,9 +115,8 @@ As I mentioned earlier, the key solution to suspend of being frais to use a
 통신판매업자에게만 의무적으로 적용되는 전자상거래 등에서의 소비자 보호에 관한 법률
 보이스 피싱에만 한정되어 있는 전기통신 금융사기 피해 방지 및 피해금 환급에 관한 특별법상 지금정지제도를 언급
 
-
-
-
+판매자가 갑. 
+구매자는 항상 을.
 
 ## Reference
  apa스타일로 정리 -> 먼저 업로드 하고 업로드상 명칭이랑 레퍼런스 상 이름이랑 일치 시켜야함.
