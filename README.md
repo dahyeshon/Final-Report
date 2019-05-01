@@ -56,7 +56,8 @@ Topic: A New Business Plan; Blockchain in Second-hand market service platform
 ## 3.1 Increasing e-commerce fraud in Second-hand market transaction
 
 ![Image of **Internet fraud statistics**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/Blockchain_chart.png)
-  
+source: http://cyberbureau.police.go.kr/share/sub3_2.jsp?mid=030301
+
 ## 3.2 Blockchain companies in Second-hand market
  
    - [Car Vertical](https://www.carvertical.com/)
@@ -69,6 +70,8 @@ Topic: A New Business Plan; Blockchain in Second-hand market service platform
      - None furtherer updated from 2017
      - [White papaer](https://www.jlinkcoin.com/pdf/JLinkCoinWhitePaper.pdf)
      - [Technical paper](https://www.jlinkcoin.com/pdf/JLinkCoinTechnicalPaper.pdf)
+     
+     -details
      
 # 4. 온라인 거래 사기 해결을 위한 중고나라 사이트의 현황 및 대안 제시 
 
@@ -96,10 +99,23 @@ As I mentioned earlier, the key solution to suspend of being fraud is to use a
 (블록체인을 이용하면 변화할 생태계, 작성한 그림으로 설명)
 
 
+비트코인 거래시, 블록형태로 기록되는 것처럼 누구에게 입금. 송금.이 체인의 형태로 연결되고
+만약 사기가 발생하면 <불이행>
 
-비트코인 거래시, 블록형태로 기록되는 것처럼 누구에게 입금. 송금. 이 체인의 형태로 연결되고
-만약 사기가 발생하면 < 불이행>
+문제점이 존재함. 판매자는 항상 갑의 위치. 구매자는 항상 을의 위치.-> 해결을 위해서, 지급보증기구를 설립해야 함.
+다만 사기가 발생한다는 것은, 1. 판매자가 구매자로부터 입금을 확인하고 물건을 보냈는데, 물건이 거래했던 것들과 다른 경우,
+2. 판매자가 입금만 확인하고, 물건을 보내지 않은 경우
+3. 이전거래에서 거래 사기를 벌이지 않았으나, 현재 거래에서 사기를 벌인 판매자의 경우
 
+
+결국 판매자가 항상 갑의 위치.
+구매자는 항상 을의 위치.
+
+결론적으로는 jlink의 아이디어처럼.. "중간 기관"이 존재해야함.
+
+은행이 지급보증을 해주는 신용장거래처럼, 지급 보증을 해주는 중간 매개체가 존재해야함....
+
+구매자는 거래 대금을 중간 기관에게 지급해주고
 
 
 # 5. Conclusion
@@ -110,7 +126,9 @@ As I mentioned earlier, the key solution to suspend of being fraud is to use a
 보이스 피싱에만 한정되어 있는 전기통신 금융사기 피해 방지 및 피해금 환급에 관한 특별법상 지금정지제도를 언급
 
 
-
+법률 재정의 필요성 강조.
+구매자는 항상 을의 위치.
+구매자를 위한 법률의 재정도 필요하다.
 
 
 ## Reference
