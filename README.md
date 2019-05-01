@@ -55,7 +55,7 @@ Topic: A New Business Plan; Blockchain in Second-hand market service platform
 
 ## 3.1 Increasing e-commerce fraud in Second-hand market transaction
 
-![Image of **Internet fraud statistics**](https://octodex.github.com/images/Blockchain_chart.png)
+![Image of **Internet fraud statistics**](https://github.com/dahyeshon/PHBS_BlockChain_2018/issues/2)
   
 ## 3.2 Blockchain companies in Second-hand market
  
