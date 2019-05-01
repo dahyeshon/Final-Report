@@ -58,7 +58,7 @@ Topic: A New Business Plan; Blockchain in Second-hand market service platform
 온라인 중고 직거래 사기 현황
 최근 5개년 통계자료, 수치 -> 도식화, 설명
 
-
+![Image of **The occured and arrested number of internet fraud**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/pic1.png)
 
   
 ## 3.2 Blockchain companies in second-hand market
