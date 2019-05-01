@@ -77,20 +77,23 @@ Topic: A New Business Plan; Blockchain in Second-hand market service platform
      
 # 4. 온라인 거래 사기 해결을 위한 중고나라 사이트의 현황 및 대안 제시 
 
-## 4.1 현재 기존의 중고나라에서 더치트 사기거래 조회기능 소개 (관련 기능 현황)
+## 4.1 two trials to prevent online C2C resaling fraud -현재 기존의 중고나라, 번개장터에서 더치트 사기거래 조회기능들 소개 ; 장단점?
 
 As I mentioned earlier, the key solution to suspend of being fraud is to use a 
 
-- [peer](https://peer.com/)
-     - recently, announced a new consulting contract with junggonara which is a top tier in second-hand industry in Korea to enhance more efficient environment in online P2P transaciton (ariticle from https://www.tokenpost.kr/article-4400)
-     
-
-
- - [The Cheat](https://thecheat.co.kr/rb/?mod=_search)의 특징
- - 현재 중고나라상에서 더치트의 사기거래 조회 기능소개; 휴대폰 번호, 계좌번호만 조회가능, 이는 3개월 혹은 6개월간의 기록만 가능
+- junggonara
+ - recently, announced a new consulting contract with [Actwo Lab](https://peer.com/) under peer, a blockchain startup, which is a top tier in second-hand industry in Korea to enhance more efficient environment in online P2P transaciton (ariticle from https://www.tokenpost.kr/article-4400)
+   - [The Cheat](https://thecheat.co.kr/rb/?mod=_search)의 특징
+     - 현재 중고나라상에서 더치트의 사기거래 조회 기능소개; 휴대폰 번호, 계좌번호만 조회가능, 이는 3개월 혹은 6개월간의 기록만 가능
+   - pros
+   - cons
+  
+- bunjang
+ - 번개장터 더치트 거래 내역 머신러닝으로 도입, 번개장터시큐리티 기능 (article from http://www.zdnet.co.kr/view/?no=20181205141557&re=R_20190124123857)
+   - pros
+   - cons
  
- 
- ## 4.2 어떻게 바뀌어야 하나 (대안 제시)
+ ## 4.2 New solution with blockchain
 
 더치트와 중고나라의 협업, 그리고
 더치트에 쌓여있는 누적 데이터를 활용하면서 
