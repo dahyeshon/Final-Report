@@ -6,7 +6,7 @@ Topic: A New Business Plan; Blockchain in Second-hand market service platform
 # 1. Review Biz: Several business existed examples of Blockchain technology in various industry 
 
  ## 1.1 Financing
-    - JP Morgan Chase, 
+    - JP Morgan Chase, |
    
    
     - Deutsche Bank, 
@@ -33,7 +33,7 @@ Topic: A New Business Plan; Blockchain in Second-hand market service platform
  
  
 
-# 2. White Paper: A New Business Plan: Blockchain in Second-hand market
+# 2. Blockchain in Second-hand market
 
 ## 2.1 Reason why I am choosing this business - my real story being cheated online second-hand market
 I had cheated on a unknown person online second-hand marekt when I wanted to buy a macbook retina 15 inch. 
@@ -46,7 +46,7 @@ However, in my case, there wasn't any records about the seller.
 After a while I reported to the police, this kind of fraud, which is a transaction throught online, is rarely hard to catch suspects. It is becasue the identified bank accounts and phone numbers are mostly fake deposits. 
 Therefore, I think **the main reason** of being cheated online transaction is one of the features of online market transaction, which is easily cheating others with **a faked identification**. 
 
-## 2.2 Applying Blockchain technology on identification system
+## 2.2 Applying Blockchain technology on identification system - main difference between existing blockchain company in second-hand market
 As I mentioned earlier, the key solution to suspend of being fraud is to use a 
 
   
@@ -58,17 +58,15 @@ As I mentioned earlier, the key solution to suspend of being fraud is to use a
      -Car Vertical, itself make a rating on condition of the car, 
   
 
-
-## 2.4 
-[peer](https://peer.com/)
-** embeding a photo **
+   - [peer](https://peer.com/)
+     - recently, announced a new collabration with junggonara which is a top tier in second-hand industry
 
 
-
-## 2.5 conclusion
+## 2.5 Conclusion
 
 
 ## reference
 
+** embeding a photo **
 ![Image of **tilte of photo**](https://octodex.github.com/images/5._IELTS_6.jpg)
 firstly you need to upload on github
