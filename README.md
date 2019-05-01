@@ -3,6 +3,9 @@
 Final Report of Blockchain and bitcoin taught by Professor, Jaehyuck Choi.
 Topic: A New Business Plan; Blockchain in Second-hand market service platform
 
+# overview
+
+
 # 1. Review Biz: Several business existed examples of Blockchain technology in various industry 
 
  ## 1.1 Financing
@@ -15,8 +18,8 @@ Topic: A New Business Plan; Blockchain in Second-hand market service platform
    - fidor bank,
      - 
      
-   - Kakao pay which is payment system of the most popular messenger in Korea, Kakao Talk
-     - 
+  
+     
  ## 1.2 Accounting
    - Deloitte, an accounting system develped by itself, to make some change in accounting 
      - 
@@ -35,8 +38,15 @@ Topic: A New Business Plan; Blockchain in Second-hand market service platform
   
   - IBM Watson, patients information sharing system 
     - 
- 
- 
+    
+    
+    
+ ## 1.5 Messaging apps
+  - Kakao pay which is payment system of the most popular messenger in Korea, Kakao Talk
+     - 
+  - Telegram, which is encryted messaging app, is also developing its own blockchain based platform which is called the TON(Telegram Open Network) to allow its users into payment, storage, and censorship proof
+  - Line, Japan's popular messanger, is planning to extend its service into cryptocurrency trading
+     
 
 # 2. Blockchain in Second-hand market
 
@@ -51,11 +61,8 @@ However, in my case, there wasn't any records about the seller.
 After a while I reported to the police, this kind of fraud, which is a transaction throught online, is rarely hard to catch suspects. It is becasue the identified bank accounts and phone numbers are mostly fake deposits. 
 Therefore, I think **the main reason** of being cheated online transaction is one of the features of online market transaction, which is easily cheating others with **a faked identification**. 
 
-## 2.2 Applying Blockchain technology on identification system - main difference between existing blockchain company in second-hand market
-As I mentioned earlier, the key solution to suspend of being fraud is to use a 
-
   
-## 2.3 Existed blockchain companies in Second-hand market
+## 2.2 Existed blockchain companies in Second-hand market
  
    - [Car Vertical](https://www.carvertical.com/)
      - track a record on a used car before demanders buy
@@ -65,6 +72,11 @@ As I mentioned earlier, the key solution to suspend of being fraud is to use a
 
    - [peer](https://peer.com/)
      - recently, announced a new collabration with junggonara which is a top tier in second-hand industry
+
+
+## 2.3 Applying Blockchain technology on identification system - main difference between existing blockchain company in second-hand market
+As I mentioned earlier, the key solution to suspend of being fraud is to use a 
+
 
 
 ## 2.5 Conclusion
