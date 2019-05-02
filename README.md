@@ -21,27 +21,33 @@ During this blockchain course, I highly encouraged to research about second-hand
  ## 2.1 Financing
  
    > The PoC (proof of concept) will be jointly conducted in the Asia Pacific region with Deutsche Bank, DBS, HSBC, Standard Chartered Bank, securities software provider SLI and the Singapore Exchange (SGX).
+   
    > Royal Bank of Scotland, inventing an automated mortgage payment processing with blochchain 
 
  ## 2.2 Retails & logistics
  
    > A delivery system which is using a drone to chase deliverys while they are delivered - Walmart
+   
    > A tracking of containers system with [Hyperledger Fabric](https://www.hyperledger.org/projects/fabric) when a delivery is on the way of requested country - Maersk
     
  ## 2.3 Medical
  
    > A project named as [Deepmind Health](https://deepmind.com/applied/deepmind-health/), collaborating with UK National Health Service to track and monitor lively which services are taken to patients, such as processing of test and treatment - Google
+   
    > [IBM Watson Health](https://www.ibm.com/watson/health/) will make patients information share to any demanders of the information such as hospitals, insurers, providers, reseachers and patients.
     
  ## 2.4 Messaging apps
  
    > Kakao talk launched its payment system, called as Kakao pay using blockchain technology to certificate user's identification (article from https://en.yna.co.kr/view/AEN20180308008300320)
+   
    > Telegram, which is encryted messaging app, is also developing its own blockchain based platform which is called the TON(Telegram Open Network) to allow its users into payment, storage, and censorship proof
+   
    > Line, Japan's popular messanger, is planning to extend its service into cryptocurrency trading
      
 ## 2.5 Public service
 
    > UK government has been working together with GovCoin system, Barclays, RWE and University College of London to cut down UK's welfare fraud spending habits of welfare recipient. (article from https://www.techrepublic.com/article/uk-government-using-blockchain-to-track-welfare-spending/)
+   
    > Korea National Election Commision is setting up its online voting system based on blockchain (official website: http://www.kvoting.go.kr/NecVote/html/main/main.jsp)
   
 # 3. Blockchain in second-hand market
