@@ -54,7 +54,7 @@ During this blockchain course, I highly encouraged to research about second-hand
  
    - [Car Vertical](https://www.carvertical.com/)
      - to track a record on a used car before demanders buy
-     - whey demanders search about VIN number, then they can reach on the information about car details, such as a maufacturer, model of the car, type of the body, production year, engine power, type of fuel, type of transimission, the country of manufacture
+     - when demanders search about VIN number, then they can reach on the information about car details, such as a maufacturer, model of the car, type of the body, production year, engine power, type of fuel, type of transimission, the country of manufacture
      - itself makes a rating on condition of the car
 
    - [JLINK](https://www.jlinkcoin.com/)
