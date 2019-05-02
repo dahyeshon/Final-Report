@@ -61,9 +61,7 @@ Online
      - A startup in Online Second-hand market undertook by blockchain 
      - The main idea is to set up a **escrow** to guarantee payment and delivery
 ![Image of **Business idea of JLINK**](https://octodex.github.com/images/5._IELTS_6.jpg)     
-     - None furtherer updated from 2017
-     - [White papaer](https://www.jlinkcoin.com/pdf/JLinkCoinWhitePaper.pdf)
-     - [Technical paper](https://www.jlinkcoin.com/pdf/JLinkCoinTechnicalPaper.pdf)
+     - None furtherer updated after 2018
      
 # 4. Status and alternatives to prevent online transaction fraud in second-hand market 
 
@@ -84,38 +82,44 @@ Online
      - which is called as bungjang security
      - to check the past transation records before purchasing
     
- ## 4.2 New solution with blockchain, applying J-LINK's idea
+ ## 4.2 New solution with blockchain, applying JLINK's idea
 
 I think for junggonara and bunjang to put an effort on reducing its transaction insecurity is a good idea to accelerate transactions in internent P2P second-hand marekt. It would be great opportunity to broadly go up the online second-hand market power. 
-However, to apply blockchain technology on second-hand market bussiness, I strongly recommend the two online second-hand market supplier, junggonara and bunjang, to consider an application of the main ideas offered by J-LINK.
 
- - A new payment, J coin
- - crosscountrial
- - 
-
-
-
-비트코인 거래시, 블록형태로 기록되는 것처럼 누구에게 입금. 송금. 이 체인의 형태로 연결되고
-만약 사기가 발생하면 <불이행>
-
-However, you may have several questions unsolved by this idea.
+But, you may have several questions unsolved with this idea.
 
 Hereby would be 3 cases of fraud which could be happened in online transaction.
   - A seller didn't send the goods in exchange for the transaction.
-  - An item has been sent, but has not been sent.
-  - A seller who has never cheated on a previous 'The Cheat' record, but who is trying to cheat on a current transaction.
+  - An item has been sent, but it is not what's on the contract.
+  - A seller who has never cheated on a previous 'The Cheat' record, could be unreliable seller from this current transaction
 
-To solve this problem
-As in the case of j-link, cooperation between second-hand countries and Dutch should be established to guarantee payment.
+To solve this problem, However, I think an application of blockchain technology can be adapted for using the characteristics of being recorded on the block and opened to anyone.
 
+Therefore, to apply blockchain technology on second-hand market bussiness, I strongly recommend the two online second-hand market supplier, junggonara and bunjang, to consider an application of the main ideas offered by JLINK.
+
+According to [White papaer](https://www.jlinkcoin.com/pdf/JLinkCoinWhitePaper.pdf) of JLINK, the main features are
+ - A new payment, J coin
+ ![Image of **Jlink Coin overview**](https://___url____)
+ ![Image of **Jlink Coin structure**](https://___url____)
+ ![Image of **Jlink Coin roadmap**](https://___url____)
+ - crosscountrial system with reducing exchange rate and transaction commission
+ ![Image of **title of photo**](https://___url____)
+ - J score, a quantitative indicator and user's reviews written on bloackchain
+ - Development of an escrow service
+ ![Image of **title of phot**](https://___url____)
+
+ [Technical paper](https://www.jlinkcoin.com/pdf/JLinkCoinTechnicalPaper.pdf)
 
 # 5. Conclusion
+In my opinion, the blockchain idea implemented by JLINK is too hard to be realistic as a business model. It is because, firstly, to be adapted for international online transaction will be complicate for being applying on different country and in various environment. We live in global world, but the laws that can be acted are all different depending on the country and the situation.
+Secondly, JLINK Coin system is quite unreliable with no exchange rate and transaction fee on its platform.
+
 Online used goods transaction has been on a steady rise every year. it would become more active in the future.
-Therefore, I think to solve the security problem with blockchain is to become a game changer in this business.
+I think to solve the security problem with blockchain is to become a game changer in this business.
 However, There are no countries, including the U.S., to have any related laws that can detain suspects in online fraud.
-In South Korea, also,it is limited to voice phishing techniques only to legalize online transaction fraud suspects, and there is no legal action against other frauds.
+In South Korea, also, it is limited to voice phishing techniques only to legalize online transaction fraud suspects, and there is no legal action against other frauds.
 Only the current suspension system in Korea is required under the Consumer Protection Act, which applies only to telecom vendors, and the Special Act on the Prevention of Damage to Telecommunications Financial Fraud and Reimbursement of Damages, which is limited to voice phishing.
-Lastly, it is the first step to 
+In conclusion,
 
 ## Reference
 
