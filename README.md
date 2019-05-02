@@ -16,7 +16,7 @@ Therefore, I think **the main reason** of being cheated online transaction is on
 
 During this blockchain course, I highly encouraged to research about second-hand onlie market transaction to redesign origianl platform with blockchain system.
 
-# 2. Cases applying Blockchain technology on various industry 
+# 2. Business cases applying Blockchain on various industry 
 
  ## 2.1 Financing
  
@@ -63,7 +63,7 @@ During this blockchain course, I highly encouraged to research about second-hand
      - None furtherer updated after 2018
      (further information later)
      
-# 4. Status and alternatives to prevent online transaction fraud in second-hand market 
+# 4. Current situations and alternatives to prevent online transaction fraud in second-hand market 
 
 ## 4.1 How to prevent online C2C resale fraud conducted by the two companies
 
@@ -76,7 +76,7 @@ During this blockchain course, I highly encouraged to research about second-hand
 [Image of **junggonara1**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/junggonara1.png) [Image of **junggonara2**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/junggonara2.png)
 
    - bunjang
-     - announced a introduction of machine learning to show reports on [The Cheat](https://thecheat.co.kr/rb/?mod=_search) (article from http://www.zdnet.co.kr/view/?no=20181205141557&re=R_20190124123857)
+     - announced a introduction of machine learning to show reports on [The Cheat](https://thecheat.co.kr/rb/?mod=_search) (article from http://www.zdnet.co.kr/view/?no=20181205141557)
      - which is called as bungjang security
      - to check the past transation records before purchasing
     
@@ -131,6 +131,24 @@ After that, we can consider and research more about application of blockchain wi
 Through this works by researching any related articles and papers, I realized that there are much more disadvantes for the buyers in second-hand market when they got fraud.
 
 ## Reference
+국회입법조사처, 온라인 상품 직거래의 문제점과 개선 과제, 이슈와 논점, 제928호, 2015년 4월 22일
+과학기술정보통신부, 신뢰할 수 있는 4차 산업혁명을 구현하는 「블록체인 기술 발전전략」, 2018년 6월
+이승민, 블록체인 관련 동향 및 시사점, 정보통신산업진흥원, 제4차 산업혁명과 소프트파워 이슈리포트, 2018-제27호, 2018년 7월 2일
+http://www.zdnet.co.kr/view/?no=20181205141557
+https://www.carvertical.com/
+https://peer.com/what-we-do-kr
+https://www.tokenpost.kr/article-4400
+https://www.jlinkcoin.com/
+https://www.jlinkcoin.com/pdf/JLinkCoinWhitePaper.pdf
+https://www.jlinkcoin.com/pdf/JLinkCoinTechnicalPaper.pdf
+https://deepmind.com/applied/deepmind-health/
+https://www.ibm.com/watson/health/
+https://www.hyperledger.org/projects/fabric
+https://m.bunjang.co.kr/
+https://thecheat.co.kr/rb/?mod=_search
+https://www.techrepublic.com/article/uk-government-using-blockchain-to-track-welfare-spending/
+http://www.kvoting.go.kr/NecVote/html/main/main.jsp
+https://en.yna.co.kr/view/AEN20180308008300320
 
- 
+
 
