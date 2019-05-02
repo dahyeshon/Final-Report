@@ -4,11 +4,11 @@ Topic: A New Business Plan; Second-hand market service platform with blockchain 
 
 ## 1. Introduction - Reason why I am choosing this business
 
-I had an experienced cheated on a unreliable seller in a mobile application, [bunjang](https://m.bunjang.co.kr/).
+2 years ago, I had an experienced cheated on a unreliable seller in a mobile application, [bunjang](https://m.bunjang.co.kr/).
 The amount of money was approxiamtely 2300 Chinese yuan. (400,000 won, in Korean exchange) 
-A bunjang has a function for communicating in  potential buyer and seller when buyer wants to ask something related to the good that he is interested in and also can negotiate in the communication. 
-Both buyer and seller need to log in their own personal IDs and PWs, especially by entering identification code in text messages to identify the ID by mobile phone number. 
-Additionally, it is suggested to use a double-check function connected with link to [The Cheat](https://thecheat.co.kr/rb/?mod=_search) to check whether you counterpart is recored on the website by someone already had been transaction experienced before, so that you, the potentially be cheated on the same person, can be preveted by fraud.
+A bunjang has a function for communicating in  potential buyer and seller when buyer wants to ask something related to the good that he is interested in. 
+Buyer and seller, both need to log in their own personal IDs and PWs, especially by entering identification code in text messages to identify the ID by mobile phone number. 
+Additionally, it is suggested to use a double-check function connected with link to [The Cheat](https://thecheat.co.kr/rb/?mod=_search) to check whether your counterpart is recorded on the website by someone already having been transaction experienced before, so that you, the potentially be cheated on the same person, can be preveted by fraud.
 However, in my case, there wasn't any records about the seller. 
 After a while I reported to the police, this kind of fraud which is a transaction throught online is rarely hard to catch suspects. 
 It is because the identified bank accounts and phone numbers are mostly fake. 
@@ -136,19 +136,35 @@ Through this works by researching any related articles and papers, I realized th
 이승민, 블록체인 관련 동향 및 시사점, 정보통신산업진흥원, 제4차 산업혁명과 소프트파워 이슈리포트, 2018-제27호, 2018년 7월 2일
 
 http://www.zdnet.co.kr/view/?no=20181205141557
-https://www.carvertical.com/
-https://peer.com/what-we-do-kr
-https://www.tokenpost.kr/article-4400
-https://www.jlinkcoin.com/
-https://www.jlinkcoin.com/pdf/JLinkCoinWhitePaper.pdf
-https://www.jlinkcoin.com/pdf/JLinkCoinTechnicalPaper.pdf
-https://deepmind.com/applied/deepmind-health/
-https://www.ibm.com/watson/health/
-https://www.hyperledger.org/projects/fabric
+
 https://m.bunjang.co.kr/
+
+https://www.carvertical.com/
+
+https://peer.com/what-we-do-kr
+
+https://www.tokenpost.kr/article-4400
+
+https://www.jlinkcoin.com/
+
+https://www.jlinkcoin.com/pdf/JLinkCoinWhitePaper.pdf
+
+https://www.jlinkcoin.com/pdf/JLinkCoinTechnicalPaper.pdf
+
+https://deepmind.com/applied/deepmind-health/
+
+https://www.ibm.com/watson/health/
+
+https://www.hyperledger.org/projects/fabric
+
+https://m.bunjang.co.kr/
+
 https://thecheat.co.kr/rb/?mod=_search
+
 https://www.techrepublic.com/article/uk-government-using-blockchain-to-track-welfare-spending/
+
 http://www.kvoting.go.kr/NecVote/html/main/main.jsp
+
 https://en.yna.co.kr/view/AEN20180308008300320
 
 
