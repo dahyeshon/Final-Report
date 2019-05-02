@@ -73,7 +73,7 @@ During this blockchain course, I highly encouraged to research about second-hand
      - a function provided to check counterpart's phone number and bank account linking into [The Cheat](https://thecheat.co.kr/rb/?mod=_search)
      - it is only available to reach last 3 months or 6 months records
      - further records only available to police officer (not all information opened to everyone)
-[Image of **junggonara1**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/junggonara1.png) [Image of **junggonara2**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/junggonara2.png)
+![Image of **junggonara1**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/junggonara1.png) ![Image of **junggonara2**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/junggonara2.png)
 
    - bunjang
      - announced a introduction of machine learning to show reports on [The Cheat](https://thecheat.co.kr/rb/?mod=_search) (article from http://www.zdnet.co.kr/view/?no=20181205141557)
@@ -96,19 +96,19 @@ To solve this problem, However, I think an application of blockchain technology 
 Therefore, to apply blockchain technology on second-hand market bussiness, I strongly recommend the two online second-hand market supplier, junggonara and bunjang, to consider an application of the main ideas offered by JLINK.
 
 According to [White papaer](https://www.jlinkcoin.com/pdf/JLinkCoinWhitePaper.pdf) of JLINK, it has several features.
- - A new payment, J coin
-   - Jlink Coin overview
+- A new payment, J coin
+  - Jlink Coin overview
  ![Image of **Jlink Coin overview**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/jlink%20coin%20overview.png
 )
-   - Jlink Coin roadmap
+  - Jlink Coin roadmap
  ![Image of **Jlink Coin roadmap**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/jlink%20coin%20roadmap.png)
  
- - crosscountrial system with reducing exchange rate and transaction commission
-   - Jlink Coin Structure
+- crosscountrial system with reducing exchange rate and transaction commission
+  - Jlink Coin Structure
  ![Image of **Jlink Coin structure**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/jlink%20coin%20structure.png)
 ![Image of **Jlink Coin structure explanation**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/jlink%20coin%20structure%20explanation.png)
 
- - J score, a quantitative indicator and user's reviews written on bloackchain
+- J score, a quantitative indicator and user's reviews written on bloackchain
  
  - Development of an escrow service
 ![Image of **escrow service**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/jlinkchain%20structure.png)
@@ -134,6 +134,7 @@ Through this works by researching any related articles and papers, I realized th
 국회입법조사처, 온라인 상품 직거래의 문제점과 개선 과제, 이슈와 논점, 제928호, 2015년 4월 22일
 과학기술정보통신부, 신뢰할 수 있는 4차 산업혁명을 구현하는 「블록체인 기술 발전전략」, 2018년 6월
 이승민, 블록체인 관련 동향 및 시사점, 정보통신산업진흥원, 제4차 산업혁명과 소프트파워 이슈리포트, 2018-제27호, 2018년 7월 2일
+
 http://www.zdnet.co.kr/view/?no=20181205141557
 https://www.carvertical.com/
 https://peer.com/what-we-do-kr
