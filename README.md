@@ -1,6 +1,6 @@
 # PHBS_BlockChain_2018
 
-Topic: A New Business Plan; Second-hand market service platform with blockchain by applying J-LINK's idea
+Topic: A New Business Plan; Second-hand market service platform with blockchain by applying JLINK's idea
 
 ## 1. Introduction - Reason why I am choosing this business
 
