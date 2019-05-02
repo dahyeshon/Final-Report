@@ -55,6 +55,7 @@ During this blockchain course, I highly encouraged to research about second-hand
 ## 3.1 Increasing e-commerce fraud in second-hand market transaction
 
 ![Image of **The occurred and arrested number of internet fraud**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/internet%20fraud.png)
+source: http://cyberbureau.police.go.kr/share/sub3_2.jsp?mid=030301
   
 ## 3.2 Blockchain companies in second-hand market
  
@@ -182,4 +183,6 @@ http://www.kvoting.go.kr/NecVote/html/main/main.jsp
 https://en.yna.co.kr/view/AEN20180308008300320
 
 https://www.reuters.com/article/us-r3-fca/r3-uk-regulator-and-banks-team-up-on-blockchain-based-mortgage-reporting-idUSKCN1BN0QX
+
+http://cyberbureau.police.go.kr/share/sub3_2.jsp?mid=030301
 
