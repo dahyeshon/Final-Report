@@ -1,10 +1,8 @@
 # PHBS_BlockChain_2018
 
-Final Report of Blockchain and bitcoin taught by Professor, Jaehyuck Choi.
+Topic: A New Business Plan; Second-hand market service platform with blockchain by applying J-LINK's idea
 
-Topic: A New Business Plan; Blockchain in Second-hand market service platform
-
-## 1. introduction - Reason why I am choosing this business
+## 1. Introduction - Reason why I am choosing this business
 
 - I had an experienced cheated on a unknown person in a mobile application, [bunjang](https://m.bunjang.co.kr/)
 - The amount of money was approxiamtely 2300 Chinese yuan. (400,000 won, in Korean exchange) 
@@ -15,6 +13,8 @@ Topic: A New Business Plan; Blockchain in Second-hand market service platform
 - After a while I reported to the police, this kind of fraud which is a transaction throught online is rarely hard to catch suspects. 
 - It is because the identified bank accounts and phone numbers are mostly fake. 
 - Therefore, I think **the main reason** of being cheated online transaction is one of the features of online market transaction, which is easily cheating others with **a faked identification**.
+
+Online 
 
 # 2. Cases applying Blockchain technology on various industry 
 
@@ -59,7 +59,7 @@ Topic: A New Business Plan; Blockchain in Second-hand market service platform
 
    - [JLINK](https://www.jlinkcoin.com/)
      - A startup in Online Second-hand market undertook by blockchain 
-     - **The main idea is to set up a thrid party to guarantee payment and delivery**
+     - The main idea is to set up a **escrow** to guarantee payment and delivery
 ![Image of **Business idea of JLINK**](https://octodex.github.com/images/5._IELTS_6.jpg)     
      - None furtherer updated from 2017
      - [White papaer](https://www.jlinkcoin.com/pdf/JLinkCoinWhitePaper.pdf)
@@ -71,10 +71,10 @@ Topic: A New Business Plan; Blockchain in Second-hand market service platform
 
    - junggonara
      - a top tier in second-hand industry in Korea 
-     - recently, announced a new consulting contract with Actwo Lab under [peer](https://peer.com/), a blockchain startup, to enhance more efficient environment in online P2P transaciton (ariticle from https://www.tokenpost.kr/article-4400)
+     - recently, announced a new consulting contract with Actwo Lab under [peer](https://peer.com/), a blockchain startup, to enhance more efficient environment in online used goods transaction (ariticle from https://www.tokenpost.kr/article-4400)
      - a function provided to check counterpart's phone number and bank account linking into [The Cheat](https://thecheat.co.kr/rb/?mod=_search)
      - it is only available to reach last 3 months or 6 months records
-     - further records only available to police officer   
+     - further records only available to police officer (not all information opened to everyone)
   
 ![Image of **junggonara1**](https://octodex.github.com/images/5._IELTS_6.jpg)
 ![Image of **junggonara2**](https://octodex.github.com/images/5._IELTS_6.jpg)
@@ -84,14 +84,14 @@ Topic: A New Business Plan; Blockchain in Second-hand market service platform
      - which is called as bungjang security
      - to check the past transation records before purchasing
     
- ## 4.2 New solution with blockchain
+ ## 4.2 New solution with blockchain, applying J-LINK's idea
 
-I think for junggonara to put an effort on  is a good idea to extend the security in internent P2P transaction. It would be great opportunity to broad the online second-hand market power. 
+I think for junggonara and bunjang to put an effort on reducing its transaction insecurity is a good idea to accelerate transactions in internent P2P second-hand marekt. It would be great opportunity to broadly go up the online second-hand market power. 
+However, to apply blockchain technology on second-hand market bussiness, I strongly recommend the two online second-hand market supplier, junggonara and bunjang, to consider an application of the main ideas offered by J-LINK.
 
-더치트와 중고나라의 협업, 그리고
-더치트에 쌓여있는 누적 데이터를 활용하면서 
-블로체인을 이용해 서로 거래 현황을 볼 수 있는 형태로 진화
-(블록체인을 이용하면 변화할 생태계, 작성한 그림으로 설명)
+ - A new payment, J coin
+ - crosscountrial
+ - 
 
 
 
@@ -108,13 +108,9 @@ Hereby would be 3 cases of fraud which could be happened in online transaction.
 To solve this problem
 As in the case of j-link, cooperation between second-hand countries and Dutch should be established to guarantee payment.
 
-+ 물건의 배송에 대한 블록체인은 가능하지 않음...
-+ 거래 대금에 대한 블록체인만 가능..(블록체인을 실행화 시키면)
-
-
 
 # 5. Conclusion
-Online P2P transaction has been on a steady rise every year. it would become more active in the future.
+Online used goods transaction has been on a steady rise every year. it would become more active in the future.
 Therefore, I think to solve the security problem with blockchain is to become a game changer in this business.
 However, There are no countries, including the U.S., to have any related laws that can detain suspects in online fraud.
 In South Korea, also,it is limited to voice phishing techniques only to legalize online transaction fraud suspects, and there is no legal action against other frauds.
@@ -125,6 +121,3 @@ Lastly, it is the first step to
 
  
 
-** embeding a photo **
-![Image of **tilte of photo**](https://octodex.github.com/images/5._IELTS_6.jpg)
-firstly you need to upload on github
