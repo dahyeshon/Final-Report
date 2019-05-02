@@ -59,9 +59,9 @@ Online
 
    - [JLINK](https://www.jlinkcoin.com/)
      - A startup in Online Second-hand market undertook by blockchain 
-     - The main idea is to set up a **escrow** to guarantee payment and delivery
-![Image of **Business idea of JLINK**](https://octodex.github.com/images/5._IELTS_6.jpg)     
+     - The main idea is to set up a **escrow** to guarantee payment and delivery 
      - None furtherer updated after 2018
+     (further information later)
      
 # 4. Status and alternatives to prevent online transaction fraud in second-hand market 
 
@@ -73,9 +73,7 @@ Online
      - a function provided to check counterpart's phone number and bank account linking into [The Cheat](https://thecheat.co.kr/rb/?mod=_search)
      - it is only available to reach last 3 months or 6 months records
      - further records only available to police officer (not all information opened to everyone)
-  
-![Image of **junggonara1**](https://octodex.github.com/images/5._IELTS_6.jpg)
-![Image of **junggonara2**](https://octodex.github.com/images/5._IELTS_6.jpg)
+![Image of **junggonara1**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/junggonara1.png)![Image of **junggonara2**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/junggonara2.png)
 
    - bunjang
      - announced a introduction of machine learning to show reports on [The Cheat](https://thecheat.co.kr/rb/?mod=_search) (article from http://www.zdnet.co.kr/view/?no=20181205141557&re=R_20190124123857)
@@ -99,16 +97,18 @@ Therefore, to apply blockchain technology on second-hand market bussiness, I str
 
 According to [White papaer](https://www.jlinkcoin.com/pdf/JLinkCoinWhitePaper.pdf) of JLINK, the main features are
  - A new payment, J coin
- ![Image of **Jlink Coin overview**](https://___url____)
- ![Image of **Jlink Coin structure**](https://___url____)
- ![Image of **Jlink Coin roadmap**](https://___url____)
+ ![Image of **Jlink Coin overview**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/jlink%20coin%20overview.png
+)
+ ![Image of **Jlink Coin structure**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/jlink%20coin%20structure.png)
+![Image of **Jlink Coin structure explanation**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/jlink%20coin%20structure%20explanation.png)
+ ![Image of **Jlink Coin roadmap**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/jlink%20coin%20roadmap.png)
  - crosscountrial system with reducing exchange rate and transaction commission
- ![Image of **title of photo**](https://___url____)
+ ![Image of ****](https://___url____)
  - J score, a quantitative indicator and user's reviews written on bloackchain
  - Development of an escrow service
- ![Image of **title of phot**](https://___url____)
+![Image of **escrow service**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/jlinkchain%20structure.png)
 
- [Technical paper](https://www.jlinkcoin.com/pdf/JLinkCoinTechnicalPaper.pdf)
+[Technical paper](https://www.jlinkcoin.com/pdf/JLinkCoinTechnicalPaper.pdf)
 
 # 5. Conclusion
 In my opinion, the blockchain idea implemented by JLINK is too hard to be realistic as a business model. It is because, firstly, to be adapted for international online transaction will be complicate for being applying on different country and in various environment. We live in global world, but the laws that can be acted are all different depending on the country and the situation.
