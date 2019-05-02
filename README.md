@@ -75,7 +75,7 @@ During this blockchain course, I highly encouraged to research about second-hand
 ## 4.1 How to prevent online P2P resale fraud conducted by the two companies
 
    - junggonara
-     - a top tier in second-hand industry in Korea 
+     - a top tier website in second-hand market in Korea 
      - recently, announced a new consulting contract with Actwo Lab under [peer](https://peer.com/), a blockchain startup, to enhance more efficient environment in online used goods transaction (ariticle from https://www.tokenpost.kr/article-4400)
      - a function provided to check counterpart's phone number and bank account linking into [The Cheat](https://thecheat.co.kr/rb/?mod=_search)
      - it is only available to reach last 3 months or 6 months records
@@ -83,31 +83,31 @@ During this blockchain course, I highly encouraged to research about second-hand
 ![Image of **junggonara1**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/junggonara1.png) ![Image of **junggonara2**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/junggonara2.png)
 
    - bunjang
-     - announced a introduction of machine learning to show reports on [The Cheat](https://thecheat.co.kr/rb/?mod=_search) (article from http://www.zdnet.co.kr/view/?no=20181205141557)
-     - which is called as bungjang security
-     - to check the past transation records before purchasing
+   - announced a new machine learning processing was completed to set up, called as bunjang security.
+   - it will guarantee transaction from uploading used goods to utilizing previous counterpart's records by linking to The Cheat automatically (article from http://www.zdnet.co.kr/view/?no=20181205141557)
+     - originally, available to check the past transation records before purchasing on its app by linking to The Cheat
     
  ## 4.2 New solution with blockchain, applying JLINK's idea
 
-I think for junggonara and bunjang to put an effort on reducing its transaction insecurity is a good idea to accelerate transactions in internent P2P second-hand marekt. It would be great opportunity to broadly go up the online second-hand market power. 
+I think for junggonara and bunjang to put an effort on reducing its transaction insecurity is a good idea to accelerate transactions in internet P2P second-hand market. It would be great opportunity to broadly go up the online second-hand market power. 
 
 But, you may have several questions unsolved with this idea.
 
 Hereby would be 3 cases of fraud which could be happened in online transaction.
   - A seller didn't send the goods in exchange for the transaction.
   - An item has been sent, but it is not what's on the contract.
-  - A seller who has never cheated on a previous 'The Cheat' record, could be unreliable seller from this current transaction
+  - According to the previous records shown on The Cheat, a seller, who has never cheated, could be unreliable seller from this current transaction
 
-To solve this problem, However, I think an application of blockchain technology can be adapted for using the characteristics of being recorded on the block and opened to anyone.
+To solve this problem, However, I think blockchain technology can be adapted for using the characteristics of being recorded on the block and opened to anyone.
 
 Therefore, to apply blockchain technology on second-hand market bussiness, I strongly recommend the two online second-hand market supplier, junggonara and bunjang, to consider an application of the main ideas offered by JLINK.
 
 According to [White papaer](https://www.jlinkcoin.com/pdf/JLinkCoinWhitePaper.pdf) of JLINK, it has several features.
 - A new payment, J coin
-  - Jlink Coin overview
+  - Jlink Coin Overview
  ![Image of **Jlink Coin overview**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/jlink%20coin%20overview.png
 )
-  - Jlink Coin roadmap
+  - Jlink Coin Roadmap
  ![Image of **Jlink Coin roadmap**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/jlink%20coin%20roadmap.png)
  
 - crosscountrial system with reducing exchange rate and transaction commission
@@ -115,7 +115,7 @@ According to [White papaer](https://www.jlinkcoin.com/pdf/JLinkCoinWhitePaper.pd
  ![Image of **Jlink Coin structure**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/jlink%20coin%20structure.png)
 ![Image of **Jlink Coin structure explanation**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/jlink%20coin%20structure%20explanation.png)
 
-- J score, a quantitative indicator and user's reviews written on bloackchain
+- J Score, a quantitative indicator and user's reviews written on bloackchain
  
  - Development of an escrow service
 ![Image of **escrow service**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/jlinkchain%20structure.png)
