@@ -84,8 +84,8 @@ During this blockchain course, I highly encouraged to research about second-hand
 ![Image of **junggonara1**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/junggonara1.png) ![Image of **junggonara2**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/junggonara2.png)
 
    - Bunjang
-   - announced a new machine learning processing was completed to set up, called as Bunjang security.
-   - it will guarantee transaction from uploading used goods to utilizing previous counterpart's records by linking to The Cheat automatically (article from http://www.zdnet.co.kr/view/?no=20181205141557)
+     - announced a new machine learning processing was completed to set up, called as Bunjang security.
+     - it will guarantee transaction from uploading used goods to utilizing previous counterpart's records by linking to The Cheat automatically (article from http://www.zdnet.co.kr/view/?no=20181205141557)
      - originally, available to check the past transation records before purchasing on its app by linking to The Cheat
     
  ## 4.2 New solution with blockchain, applying JLINK's idea
