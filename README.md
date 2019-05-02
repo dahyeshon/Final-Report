@@ -131,8 +131,11 @@ After that, we can consider and research more about application of blockchain wi
 Through this works by researching any related articles and papers, I realized that there are much more disadvantes for the buyers in second-hand market when they got fraud.
 
 ## Reference
+
 국회입법조사처, 온라인 상품 직거래의 문제점과 개선 과제, 이슈와 논점, 제928호, 2015년 4월 22일
+
 과학기술정보통신부, 신뢰할 수 있는 4차 산업혁명을 구현하는 「블록체인 기술 발전전략」, 2018년 6월
+
 이승민, 블록체인 관련 동향 및 시사점, 정보통신산업진흥원, 제4차 산업혁명과 소프트파워 이슈리포트, 2018-제27호, 2018년 7월 2일
 
 http://www.zdnet.co.kr/view/?no=20181205141557
