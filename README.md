@@ -4,7 +4,7 @@ Topic: A New Business Plan making second-hand market service platform with block
 
 ## 1. Introduction - Reason why I am choosing this business
 
-2 years ago, I had an experienced cheated on a unreliable seller in a mobile application, [bunjang](https://m.bunjang.co.kr/).
+2 years ago, I had an experienced cheated on a unreliable seller in a mobile application, [Bunjang](https://m.bunjang.co.kr/).
 The amount of money was approxiamtely 2300 Chinese yuan. (400,000 won, in Korean exchange) 
 A bunjang has a function for communicating in  potential buyer and seller when buyer wants to ask something related to the good that he is interested in. 
 Buyer and seller, both need to log in their own personal IDs and PWs, especially by entering identification code in text messages to identify the ID by mobile phone number. 
@@ -38,9 +38,9 @@ During this blockchain course, I highly encouraged to research about second-hand
     
  ## 2.4 Messaging apps
  
-   > Kakao talk launched its payment system, called as Kakao pay using blockchain technology to certificate user's identification (article from https://en.yna.co.kr/view/AEN20180308008300320)
+   > Kakao talk launched its payment system, called as Kakao pay using blockchain technology to certificate user's identification. (article from https://en.yna.co.kr/view/AEN20180308008300320)
    
-   > Telegram, which is encryted messaging app, is also developing its own blockchain based platform which is called the TON(Telegram Open Network) to allow its users into payment, storage, and censorship proof
+   > Telegram, which is encryted messaging app, is also developing its own blockchain based platform which is called the TON(Telegram Open Network) to allow its users into payment, storage, and censorship proof.
    
    > Line, Japan's popular messanger, is planning to extend its service into cryptocurrency trading
      
@@ -48,7 +48,7 @@ During this blockchain course, I highly encouraged to research about second-hand
 
    > UK government has been working together with GovCoin system, Barclays, RWE and University College of London to cut down UK's welfare fraud spending habits of welfare recipient. (article from https://www.techrepublic.com/article/uk-government-using-blockchain-to-track-welfare-spending/)
    
-   > Korea National Election Commision is setting up its online voting system based on blockchain (official website: http://www.kvoting.go.kr/NecVote/html/main/main.jsp)
+   > Korea National Election Commision is setting up its online voting system based on blockchain. (official website: http://www.kvoting.go.kr/NecVote/html/main/main.jsp)
   
 # 3. Blockchain in second-hand market
 
@@ -64,17 +64,18 @@ During this blockchain course, I highly encouraged to research about second-hand
      - itself has a function to make a rating on condition of the car
 
    - [JLINK](https://www.jlinkcoin.com/)
-     - A startup in Online Second-hand market undertook by blockchain 
-     - The main idea is to set up a **escrow** to guarantee payment and delivery 
-     - None further information updated after 2018
+     - a startup in Online Second-hand market undertook by blockchain 
+     - the main idea is to set up a **escrow** to guarantee payment and delivery 
+     - none further information updated after 2018
      
+     ...
      (further information continued later)
      
 # 4. Current situations and alternatives to prevent online transaction fraud in second-hand market 
 
 ## 4.1 How to prevent online P2P resale fraud conducted by the two companies
 
-   - junggonara
+   - Junggonara
      - a top tier website in second-hand market in Korea 
      - recently, announced a new consulting contract with Actwo Lab under [peer](https://peer.com/), a blockchain startup, to enhance more efficient environment in online used goods transaction (ariticle from https://www.tokenpost.kr/article-4400)
      - a function provided to check counterpart's phone number and bank account linking into [The Cheat](https://thecheat.co.kr/rb/?mod=_search)
@@ -82,14 +83,14 @@ During this blockchain course, I highly encouraged to research about second-hand
      - further records only available to police officer (not all information opened to everyone)
 ![Image of **junggonara1**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/junggonara1.png) ![Image of **junggonara2**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/junggonara2.png)
 
-   - bunjang
-   - announced a new machine learning processing was completed to set up, called as bunjang security.
+   - Bunjang
+   - announced a new machine learning processing was completed to set up, called as Bunjang security.
    - it will guarantee transaction from uploading used goods to utilizing previous counterpart's records by linking to The Cheat automatically (article from http://www.zdnet.co.kr/view/?no=20181205141557)
      - originally, available to check the past transation records before purchasing on its app by linking to The Cheat
     
  ## 4.2 New solution with blockchain, applying JLINK's idea
 
-I think for junggonara and bunjang to put an effort on reducing its transaction insecurity is a good idea to accelerate transactions in internet P2P second-hand market. It would be great opportunity to broadly go up the online second-hand market power. 
+I think for Junggonara and Bunjang to put an effort on reducing its transaction insecurity is a good idea to accelerate transactions in internet P2P second-hand market. It would be great opportunity to broadly go up the online second-hand market power. 
 
 But, you may have several questions unsolved with this idea.
 
@@ -100,7 +101,7 @@ Hereby would be 3 cases of fraud which could be happened in online transaction.
 
 To solve this problem, However, I think blockchain technology can be adapted for using the characteristics of being recorded on the block and opened to anyone.
 
-Therefore, to apply blockchain technology on second-hand market bussiness, I strongly recommend the two online second-hand market supplier, junggonara and bunjang, to consider an application of the main ideas offered by JLINK.
+Therefore, to apply blockchain technology on second-hand market bussiness, I strongly recommend the two online second-hand market supplier, Junggonara and Bunjang, to consider an application of the main ideas offered by JLINK.
 
 According to [White papaer](https://www.jlinkcoin.com/pdf/JLinkCoinWhitePaper.pdf) of JLINK, it has several features.
 - A new payment, J coin
