@@ -65,21 +65,26 @@ Topic: A New Business Plan; Blockchain in Second-hand market service platform
      
 # 4. Status and alternatives to prevent online transaction fraud in second-hand market 
 
-## 4.1 two trials to prevent online C2C resaling fraud -현재 기존의 중고나라, 번개장터에서 더치트 사기거래 조회기능들 소개 ; 장단점?
-
-As I mentioned earlier, the key solution to suspend of being frais to use a 
+## 4.1 two trials to prevent online C2C resaling fraud conducted by the two companies
 
 - junggonara
- - recently, announced a new consulting contract with [Actwo Lab](https://peer.com/) under peer, a blockchain startup, which is a top tier in second-hand industry in Korea to enhance more efficient environment in online P2P transaciton (ariticle from https://www.tokenpost.kr/article-4400)
-   - [The Cheat](https://thecheat.co.kr/rb/?mod=_search)의 특징
-     - 현재 중고나라상에서 더치트의 사기거래 조회 기능소개; 휴대폰 번호, 계좌번호만 조회가능, 이는 3개월 혹은 6개월간의 기록만 가능
-   - pros
-   - cons
+ - a top tier in second-hand industry in Korea 
+ - recently, announced a new consulting contract with Actwo Lab under [peer](https://peer.com/), a blockchain startup, to enhance more efficient environment in online P2P transaciton (ariticle from https://www.tokenpost.kr/article-4400)
+ - a function provided to check counterpart's phone number and bank account linking into [The Cheat](https://thecheat.co.kr/rb/?mod=_search)
+ - it is only available to reach last 3 months or 6 months records
+ - further records only available to police officer   
+  
+![Image of **tilte of photo**](https://octodex.github.com/images/5._IELTS_6.jpg)
+
+![Image of **tilte of photo**](https://octodex.github.com/images/5._IELTS_6.jpg)
+
+![Image of **tilte of photo**](https://octodex.github.com/images/5._IELTS_6.jpg)
+  
   
 - bunjang
+ - announced a introduction of machine learning with [The Cheat](https://thecheat.co.kr/rb/?mod=_search) 
+ - to check the past transation records before purchasing
  - 번개장터 더치트 거래 내역 머신러닝으로 도입, 번개장터시큐리티 기능 (article from http://www.zdnet.co.kr/view/?no=20181205141557&re=R_20190124123857)
-   - pros
-   - cons
  
  ## 4.2 New solution with blockchain
 
