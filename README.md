@@ -22,7 +22,7 @@ During this blockchain course, I highly encouraged to research about second-hand
  
    > The PoC (proof of concept) will be jointly conducted in the Asia Pacific region with Deutsche Bank, DBS, HSBC, Standard Chartered Bank, securities software provider SLI and the Singapore Exchange (SGX).
    
-   > Royal Bank of Scotland, inventing an automated mortgage payment processing with blockchain 
+   > Royal Bank of Scotland, inventing an automated mortgage payment processing with blockchain (article from https://www.reuters.com/article/us-r3-fca/r3-uk-regulator-and-banks-team-up-on-blockchain-based-mortgage-reporting-idUSKCN1BN0QX)
 
  ## 2.2 Retails & logistics
  
@@ -180,5 +180,5 @@ http://www.kvoting.go.kr/NecVote/html/main/main.jsp
 
 https://en.yna.co.kr/view/AEN20180308008300320
 
-
+https://www.reuters.com/article/us-r3-fca/r3-uk-regulator-and-banks-team-up-on-blockchain-based-mortgage-reporting-idUSKCN1BN0QX
 
