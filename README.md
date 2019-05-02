@@ -1,6 +1,6 @@
 # PHBS_BlockChain_2018
 
-Topic: A New Business Plan; Second-hand market service platform with blockchain by applying JLINK's idea
+Topic: A New Business Plan making second-hand market service platform with blockchain by applying JLINK's idea
 
 ## 1. Introduction - Reason why I am choosing this business
 
@@ -123,19 +123,22 @@ According to [White papaer](https://www.jlinkcoin.com/pdf/JLinkCoinWhitePaper.pd
 [Technical paper](https://www.jlinkcoin.com/pdf/JLinkCoinTechnicalPaper.pdf)
 
 # 5. Conclusion
-In my opinion, the blockchain idea implemented by JLINK is too hard to be realistic as a business model. It is because, firstly, to be adapted for international online transaction will be complicate for being applying on different country and in various environment. We live in global world, but the laws that can be acted are all different depending on the country and the situation.
-Secondly, JLINK Coin system is quite unreliable with no exchange rate and transaction fee on its platform.
 
-Nevertheless, online used goods transaction has been on a steady rise every year. it would become more active in the future.
-I think to solve the security problem with blockchain is to become a game changer in this business.
+In my opinion, the blockchain idea implemented by JLINK is too hard to be realistic as a business model. 
+It is because, firstly, to be adapted for international online transaction will be complicate for being applying on different country and in various environment. 
+We live in one global world, but the laws that can be on act are all different depending on the country and the situation.
+Secondly, JLINK Coin system is not completely reliable with no exchange rate and transaction fee on its platform.
 
-By the way, there are no countries, including the U.S., to have any related laws that can detain suspects in online fraud.
-In South Korea, also, it is limited to voice phishing techniques only to legalize online transaction fraud suspects, and there is no legal action against other frauds.
-Only the current suspension system in Korea is required under the Consumer Protection Act, which applies only to telecom vendors, and the Special Act on the Prevention of Damage to Telecommunications Financial Fraud and Reimbursement of Damages, which is limited to voice phishing.
+Nevertheless, online used goods transaction has been on a steady rise every year. It would become more active in the future.
+By that reason, I think to solve the security problem with blockchain is to become a game changer in this business.
 
-In conclusion, to solve the untrusty online transation problem, we need to implement to make related laws to prevent moreover online transaction fraud. 
-After that, we can consider and research more about application of blockchain with this issue. 
-Through this works by researching any related articles and papers, I realized that there are much more disadvantes for the buyers in second-hand market when they got fraud.
+Meanwhile, there are no countries, including the U.S., to have any related laws that can detain suspects in online fraud.
+In South Korea, also, it is limited only to voice phishing techniques as an online transaction fraud suspect to affect and there is no any legal actions against other online resale frauds.
+
+In conclusion, to solve the online transation problem, we need to implement to make related laws to prevent moreover online transaction fraud. 
+After that, we can consider and research more about application of blockchain on this business. 
+Through this works by researching any related articles and papers, I realized that there are much more disadvantages to the buyers in second-hand market when they got fraud, rather than the sellers.
+Therefore, to make the further number of fraud occurrence of sellers stop, it is required for government to make a law to arrest them first, and then cut down regulations regarding blockchain and other technology to be developed.
 
 ## Reference
 
