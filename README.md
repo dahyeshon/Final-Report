@@ -4,17 +4,17 @@ Topic: A New Business Plan; Second-hand market service platform with blockchain 
 
 ## 1. Introduction - Reason why I am choosing this business
 
-- I had an experienced cheated on a unknown person in a mobile application, [bunjang](https://m.bunjang.co.kr/)
-- The amount of money was approxiamtely 2300 Chinese yuan. (400,000 won, in Korean exchange) 
-- A bunjang has a function for communicating in  potential buyer and seller when buyer wants to ask something related to the good that he is interested in and also can negotiate in the communication. 
-- Both buyer and seller need to log in their own personal IDs and PWs, especially by entering identification code in text messages to identify the ID by mobile phone number. 
-- Additionally, it is suggested to use a double-check function connected with link to [The Cheat](https://thecheat.co.kr/rb/?mod=_search) to check whether you counterpart is recored on the website by someone already had been transaction experienced before, so that you, the potentially be cheated on the same person, can be preveted by fraud.
-- However, in my case, there wasn't any records about the seller. 
-- After a while I reported to the police, this kind of fraud which is a transaction throught online is rarely hard to catch suspects. 
-- It is because the identified bank accounts and phone numbers are mostly fake. 
-- Therefore, I think **the main reason** of being cheated online transaction is one of the features of online market transaction, which is easily cheating others with **a faked identification**.
+I had an experienced cheated on a unreliable seller in a mobile application, [bunjang](https://m.bunjang.co.kr/).
+The amount of money was approxiamtely 2300 Chinese yuan. (400,000 won, in Korean exchange) 
+A bunjang has a function for communicating in  potential buyer and seller when buyer wants to ask something related to the good that he is interested in and also can negotiate in the communication. 
+Both buyer and seller need to log in their own personal IDs and PWs, especially by entering identification code in text messages to identify the ID by mobile phone number. 
+Additionally, it is suggested to use a double-check function connected with link to [The Cheat](https://thecheat.co.kr/rb/?mod=_search) to check whether you counterpart is recored on the website by someone already had been transaction experienced before, so that you, the potentially be cheated on the same person, can be preveted by fraud.
+However, in my case, there wasn't any records about the seller. 
+After a while I reported to the police, this kind of fraud which is a transaction throught online is rarely hard to catch suspects. 
+It is because the identified bank accounts and phone numbers are mostly fake. 
+Therefore, I think **the main reason** of being cheated online transaction is one of the features of online market transaction, which is easily cheating others with **a faked identification**.
 
-Online 
+During this blockchain course, I highly encouraged to research about second-hand onlie market transaction to redesign origianl platform with blockchain system.
 
 # 2. Cases applying Blockchain technology on various industry 
 
@@ -73,7 +73,7 @@ Online
      - a function provided to check counterpart's phone number and bank account linking into [The Cheat](https://thecheat.co.kr/rb/?mod=_search)
      - it is only available to reach last 3 months or 6 months records
      - further records only available to police officer (not all information opened to everyone)
-![Image of **junggonara1**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/junggonara1.png)![Image of **junggonara2**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/junggonara2.png)
+[Image of **junggonara1**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/junggonara1.png) [Image of **junggonara2**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/junggonara2.png)
 
    - bunjang
      - announced a introduction of machine learning to show reports on [The Cheat](https://thecheat.co.kr/rb/?mod=_search) (article from http://www.zdnet.co.kr/view/?no=20181205141557&re=R_20190124123857)
@@ -95,16 +95,21 @@ To solve this problem, However, I think an application of blockchain technology 
 
 Therefore, to apply blockchain technology on second-hand market bussiness, I strongly recommend the two online second-hand market supplier, junggonara and bunjang, to consider an application of the main ideas offered by JLINK.
 
-According to [White papaer](https://www.jlinkcoin.com/pdf/JLinkCoinWhitePaper.pdf) of JLINK, the main features are
+According to [White papaer](https://www.jlinkcoin.com/pdf/JLinkCoinWhitePaper.pdf) of JLINK, it has several features.
  - A new payment, J coin
+   - Jlink Coin overview
  ![Image of **Jlink Coin overview**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/jlink%20coin%20overview.png
 )
+   - Jlink Coin roadmap
+ ![Image of **Jlink Coin roadmap**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/jlink%20coin%20roadmap.png)
+ 
+ - crosscountrial system with reducing exchange rate and transaction commission
+   - Jlink Coin Structure
  ![Image of **Jlink Coin structure**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/jlink%20coin%20structure.png)
 ![Image of **Jlink Coin structure explanation**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/jlink%20coin%20structure%20explanation.png)
- ![Image of **Jlink Coin roadmap**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/jlink%20coin%20roadmap.png)
- - crosscountrial system with reducing exchange rate and transaction commission
- ![Image of ****](https://___url____)
+
  - J score, a quantitative indicator and user's reviews written on bloackchain
+ 
  - Development of an escrow service
 ![Image of **escrow service**](https://github.com/dahyeshon/PHBS_BlockChain_2018/blob/master/pictures/jlinkchain%20structure.png)
 
@@ -114,12 +119,16 @@ According to [White papaer](https://www.jlinkcoin.com/pdf/JLinkCoinWhitePaper.pd
 In my opinion, the blockchain idea implemented by JLINK is too hard to be realistic as a business model. It is because, firstly, to be adapted for international online transaction will be complicate for being applying on different country and in various environment. We live in global world, but the laws that can be acted are all different depending on the country and the situation.
 Secondly, JLINK Coin system is quite unreliable with no exchange rate and transaction fee on its platform.
 
-Online used goods transaction has been on a steady rise every year. it would become more active in the future.
+Nevertheless, online used goods transaction has been on a steady rise every year. it would become more active in the future.
 I think to solve the security problem with blockchain is to become a game changer in this business.
-However, There are no countries, including the U.S., to have any related laws that can detain suspects in online fraud.
+
+By the way, there are no countries, including the U.S., to have any related laws that can detain suspects in online fraud.
 In South Korea, also, it is limited to voice phishing techniques only to legalize online transaction fraud suspects, and there is no legal action against other frauds.
 Only the current suspension system in Korea is required under the Consumer Protection Act, which applies only to telecom vendors, and the Special Act on the Prevention of Damage to Telecommunications Financial Fraud and Reimbursement of Damages, which is limited to voice phishing.
-In conclusion,
+
+In conclusion, to solve the untrusty online transation problem, we need to implement to make related laws to prevent moreover online transaction fraud. 
+After that, we can consider and research more about application of blockchain with this issue. 
+Through this works by researching any related articles and papers, I realized that there are much more disadvantes for the buyers in second-hand market when they got fraud.
 
 ## Reference
 
