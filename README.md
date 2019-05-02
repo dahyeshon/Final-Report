@@ -8,11 +8,11 @@ Topic: A New Business Plan; Second-hand market service platform with blockchain 
 The amount of money was approxiamtely 2300 Chinese yuan. (400,000 won, in Korean exchange) 
 A bunjang has a function for communicating in  potential buyer and seller when buyer wants to ask something related to the good that he is interested in. 
 Buyer and seller, both need to log in their own personal IDs and PWs, especially by entering identification code in text messages to identify the ID by mobile phone number. 
-Additionally, it is suggested to use a double-check function connected with link to [The Cheat](https://thecheat.co.kr/rb/?mod=_search) to check whether your counterpart is recorded on the website by someone already having been transaction experienced before, so that you, the potentially be cheated on the same person, can be preveted by fraud.
+Additionally, it is supposed to use a double-check function connected with link to [The Cheat](https://thecheat.co.kr/rb/?mod=_search) to check whether your counterpart is recorded on the website by someone already having been transaction experienced before, so that you, the potentially be cheated on the same person, can be preveted by fraud.
 However, in my case, there wasn't any records about the seller. 
 After a while I reported to the police, this kind of fraud which is a transaction throught online is rarely hard to catch suspects. 
 It is because the identified bank accounts and phone numbers are mostly fake. 
-Therefore, I think **the main reason** of being cheated online transaction is one of the features of online market transaction, which is easily cheating others with **a faked identification**.
+Therefore, I think **the main reason** of online fraud transaction is one of the features of online market transaction, which is easy to being cheating others with **a faked personal identification**.
 
 During this blockchain course, I highly encouraged to research about second-hand onlie market transaction to redesign origianl platform with blockchain system.
 
@@ -22,7 +22,7 @@ During this blockchain course, I highly encouraged to research about second-hand
  
    > The PoC (proof of concept) will be jointly conducted in the Asia Pacific region with Deutsche Bank, DBS, HSBC, Standard Chartered Bank, securities software provider SLI and the Singapore Exchange (SGX).
    
-   > Royal Bank of Scotland, inventing an automated mortgage payment processing with blochchain 
+   > Royal Bank of Scotland, inventing an automated mortgage payment processing with blockchain 
 
  ## 2.2 Retails & logistics
  
@@ -60,18 +60,19 @@ During this blockchain course, I highly encouraged to research about second-hand
  
    - [Car Vertical](https://www.carvertical.com/)
      - to track a record on a used car before demanders buy
-     - when demanders search about VIN number, then they can reach on the information about car details, such as a maufacturer, model of the car, type of the body, production year, engine power, type of fuel, type of transimission, the country of manufacture
-     - itself makes a rating on condition of the car
+     - when demanders search about VIN number, they can reach on the information about car details, such as a manufacturer, model of the car, type of the body, production year, engine power, type of fuel, type of transmission, the country of manufacture
+     - itself has a function to make a rating on condition of the car
 
    - [JLINK](https://www.jlinkcoin.com/)
      - A startup in Online Second-hand market undertook by blockchain 
      - The main idea is to set up a **escrow** to guarantee payment and delivery 
-     - None furtherer updated after 2018
-     (further information later)
+     - None further information updated after 2018
+     
+     (further information continued later)
      
 # 4. Current situations and alternatives to prevent online transaction fraud in second-hand market 
 
-## 4.1 How to prevent online C2C resale fraud conducted by the two companies
+## 4.1 How to prevent online P2P resale fraud conducted by the two companies
 
    - junggonara
      - a top tier in second-hand industry in Korea 
